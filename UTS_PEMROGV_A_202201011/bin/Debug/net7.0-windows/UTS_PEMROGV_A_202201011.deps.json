@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UTS_PEMROGV_A_202201011/1.0.0": {
+        "runtime": {
+          "UTS_PEMROGV_A_202201011.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTS_PEMROGV_A_202201011/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

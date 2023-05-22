@@ -148,6 +148,7 @@ Partial Class soalNomer5
         ' ComboBox2
         ' 
         ComboBox2.FormattingEnabled = True
+        ComboBox2.Items.AddRange(New Object() {"Mobil", "Motor"})
         ComboBox2.Location = New Point(56, 151)
         ComboBox2.Name = "ComboBox2"
         ComboBox2.Size = New Size(138, 23)
@@ -156,6 +157,7 @@ Partial Class soalNomer5
         ' ComboBox3
         ' 
         ComboBox3.FormattingEnabled = True
+        ComboBox3.Items.AddRange(New Object() {"Mobil", "Motor"})
         ComboBox3.Location = New Point(56, 206)
         ComboBox3.Name = "ComboBox3"
         ComboBox3.Size = New Size(138, 23)

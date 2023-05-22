@@ -83,7 +83,7 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Label7.Text = TextBox1.Text
-        Label8.Text = DateDiff(DateInterval.Year, Now, DateTimePicker1.Value)
+        Label8.Text = DateDiff(DateInterval.Year, DateTimePicker1.Value, Now)
         hitungZodiak()
     End Sub
 End Class
