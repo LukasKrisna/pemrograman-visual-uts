@@ -1,0 +1,10 @@
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.vbproj.AssemblyReference.cache
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.soalNomer1.resources
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.soalNomer5.resources
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.soalNomer6.resources
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.soalNomer8.resources
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.vbproj.GenerateResource.cache
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.AssemblyInfoInputs.cache
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.AssemblyInfo.vb
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\UTS_PEMROGV_A_202201011\UTS_PEMROGV_A_202201011\obj\Debug\net7.0-windows\UTS_PEMROGV_A_202201011.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,94 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="TextBox1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="TextBox1.Text" xml:space="preserve">
+    <value>Exception Handling dalam pemrograman Visual Basic adalah proses menangani pengecualian (exception) yang terjadi selama eksekusi program. Pengecualian adalah situasi di mana program mengalami kesalahan atau situasi yang tidak terduga yang mengganggu alur normal program.
+
+Dalam Visual Basic, kita dapat menggunakan blok Try-Catch untuk mengimplementasikan Exception Handling. Blok Try-Catch digunakan untuk mencoba menjalankan potongan kode yang mungkin menimbulkan pengecualian, dan jika pengecualian terjadi, kita dapat menangkapnya di blok Catch untuk melakukan penanganan yang sesuai.
+
+Contoh penggunaan Exception Handling dalam Visual Basic:
+Try
+    ' Potongan kode yang mungkin menimbulkan pengecualian
+Catch ex As Exception
+    ' Penanganan pengecualian
+    ' Misalnya, menampilkan pesan kesalahan
+End Try
+
+Event Handling dalam pemrograman Visual Basic adalah proses menangani peristiwa (event) yang terjadi saat aplikasi sedang berjalan. Peristiwa dapat berupa tindakan pengguna seperti mengklik tombol, mengubah nilai pada kontrol, atau peristiwa sistem seperti perubahan status jaringan.
+
+Dalam Visual Basic, kita dapat menulis kode untuk menangani peristiwa yang spesifik. Setiap kontrol dalam Visual Basic memiliki berbagai peristiwa yang dapat dipicu, dan kita dapat menentukan kode yang harus dijalankan ketika peristiwa terjadi.
+
+Contoh penggunaan Event Handling dalam Visual Basic:
+Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+    ' Kode yang akan dijalankan ketika tombol di klik
+End Sub
+
+Dalam contoh di atas, kita menangani peristiwa "Click" dari tombol dengan nama "Button1". Ketika tombol tersebut diklik, kode di dalam blok Sub akan dijalankan. Dengan menggunakan Event Handling, kita dapat merespons peristiwa yang terjadi dalam aplikasi dan melakukan tindakan yang sesuai sesuai dengan kebutuhan aplikasi.
+
+
+
+
+
+
+</value>
+  </data>
+</root>
