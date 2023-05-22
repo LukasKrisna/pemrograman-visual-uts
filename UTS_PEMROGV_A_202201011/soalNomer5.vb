@@ -1,7 +1,7 @@
 ﻿Public Class soalNomer5
     Dim jumlahKend, masihBerlaku, hampirHabis, habis As Integer
 
-    Private Sub Process(ByVal selisihKend As Integer, ByVal comboBox As ComboBox, ByVal textBox As TextBox, ByVal label As Label)
+    Private Sub Process(selisihKend As Integer, comboBox As ComboBox, textBox As TextBox, label As Label)
         If comboBox.Text = "" Or textBox.Text = "" Then
             label.Text = "Data harus valid!"
         Else

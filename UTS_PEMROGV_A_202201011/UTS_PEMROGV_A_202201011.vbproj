@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net7.0-windows</TargetFramework>
-    <StartupObject>UTS_PEMROGV_A_202201011.soalNomer5</StartupObject>
+    <StartupObject>UTS_PEMROGV_A_202201011.soalNomer7</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
   </PropertyGroup>

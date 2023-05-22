@@ -16,6 +16,9 @@
     <Compile Update="soalNomer6.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="soalNomer7.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="soalNomer8.vb">
       <SubType>Form</SubType>
     </Compile>
